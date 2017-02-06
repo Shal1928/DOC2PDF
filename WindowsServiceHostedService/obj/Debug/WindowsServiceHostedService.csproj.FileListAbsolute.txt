@@ -1,0 +1,4 @@
+C:\Root\Develop\DOC2PDF\WindowsServiceHostedService\bin\Debug\WindowsServiceHostedService.dll
+C:\Root\Develop\DOC2PDF\WindowsServiceHostedService\bin\Debug\WindowsServiceHostedService.pdb
+C:\Root\Develop\DOC2PDF\WindowsServiceHostedService\obj\Debug\WindowsServiceHostedService.dll
+C:\Root\Develop\DOC2PDF\WindowsServiceHostedService\obj\Debug\WindowsServiceHostedService.pdb

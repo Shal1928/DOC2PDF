@@ -1,0 +1,7 @@
+C:\Root\Develop\DOC2PDF\doc2pdfconsole\bin\Debug\doc2pdfconsole.exe.config
+C:\Root\Develop\DOC2PDF\doc2pdfconsole\bin\Debug\doc2pdfconsole.exe
+C:\Root\Develop\DOC2PDF\doc2pdfconsole\bin\Debug\doc2pdfconsole.pdb
+C:\Root\Develop\DOC2PDF\doc2pdfconsole\bin\Debug\System.Net.Http.dll
+C:\Root\Develop\DOC2PDF\doc2pdfconsole\bin\Debug\System.Net.Http.xml
+C:\Root\Develop\DOC2PDF\doc2pdfconsole\obj\Debug\doc2pdfconsole.exe
+C:\Root\Develop\DOC2PDF\doc2pdfconsole\obj\Debug\doc2pdfconsole.pdb
